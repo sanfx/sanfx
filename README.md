@@ -9,7 +9,10 @@ I am currently working as a Software Developer at Double Negative in London.
 <br>
 <br>
 
-[![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sanfx) san
+[![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sanfx)
+
+## Latest Medium Posts
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sanluthra/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sanluthra/0" alt="Latest medium article">
 <!--
 **sanfx/sanfx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
