@@ -2,7 +2,15 @@
 
 I am currently working as a Software Developer at Double Negative in London.
 
+## Connect with me
 
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />]([4](https://www.linkedin.com/in/sanfx/))
+[<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />]([[https://56faisal.medium.com](https://medium.com/@sanluthra)](https://medium.com/@sanluthra))
+
+<br>
+<br>
+
+[![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sanfx) san
 <!--
 **sanfx/sanfx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
