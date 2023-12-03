@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I am currently working as a Software Developer at Double Negative in London.
+
+
 <!--
 **sanfx/sanfx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
