@@ -2,7 +2,7 @@
 
 🌱I am currently working as a Software Developer at Double Negative in London.
 
-🌱 I keep good knowledge of Python, Docker, Some Linux Shell Scripting, and [a starter in GoLang](https://sanfx.wordpress.com/2023/12/03/some-golang-gotchas/).
+🌱 I keep good knowledge of Python, Docker, Ansible, Linux Shell Scripting, and [a starter in GoLang](https://sanfx.wordpress.com/2023/12/03/some-golang-gotchas/).
 
 ## Connect with me
 
