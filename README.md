@@ -23,7 +23,7 @@
 - [git push to flash firmware to your particle photon](https://devilsan.weebly.com/blog/git-push-to-flash-firmware-to-your-particle-photon)
 <!-- BLOG-POST-LIST:END -->
 
-## Latest Medium Posts
+<!--## Latest Medium Posts-->
 <!--a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sanluthra/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sanluthra/0" alt="Latest medium article"-->
 <!--
 **sanfx/sanfx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
