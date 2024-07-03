@@ -6,7 +6,8 @@
 
 ## Connect with me
 
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sanfx/)
+<!--[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sanfx/) -->
+[<img align="left" alt="Indeed" src="https://i0.wp.com/www.indeed.com/p/jobsearch.gif?w=1170&ssl=1" />](https://profile.indeed.com/resume) 
 [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@sanluthra)
 <br>
 <br>
