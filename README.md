@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-🌱I am currently working as a Software Developer at Double Negative in London.
+🌱I am currently working as a Senior Pipeline Engineer with Skydance Animation, Madrid from UK.
 
-🌱 I keep good knowledge of Python, Docker, Ansible, Linux Shell Scripting, and [a starter in GoLang](https://sanfx.wordpress.com/2023/12/03/some-golang-gotchas/).
+🌱 I keep good knowledge of Python, Docker, Ansible, Linux Shell Scripting.
 
 ## Connect with me
 
@@ -40,3 +40,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm open to technical consultations regarding Python, Vue JS. Feel free to contact me!
+
+You can support me in the following ways, and once I receive your sponsorship, I will add you to my list of contributors on GitHub and my blog。
+
+<a href="https://www.buymeacoffee.com/sansupercool" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 41px !important" ></a>
